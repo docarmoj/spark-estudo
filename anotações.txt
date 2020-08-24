@@ -1,0 +1,1 @@
+spark-submit --master local[*] --class com.br.spark1.Main /d:/estudoSpark/data/spark-youtube.jar
